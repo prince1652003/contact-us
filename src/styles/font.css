@@ -1,0 +1,28 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/AnekDevanagariRegular.ttf");
+  font-family: "Anek Devanagari";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/AnekDevanagariSemiBold.ttf");
+  font-family: "Anek Devanagari";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/AnekDevanagariMedium.ttf");
+  font-family: "Anek Devanagari";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/AnekDevanagariLight.ttf");
+  font-family: "Anek Devanagari";
+  font-weight: 300;
+}
